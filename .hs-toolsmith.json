@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "github-profile-snapshot",
+  "pitch": "Generate reproducible JSON snapshots of GitHub profiles for audits and diffs.",
+  "language": "typescript",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "GitHub REST/GraphQL fetch with rate-limit handling",
+    "Deterministic snapshot output and diff-friendly formatting",
+    "Redaction rules for PII and private signals",
+    "CLI + importable library API"
+  ],
+  "targetUsers": "DevRel, security, and platform engineers who need lightweight GitHub account reporting in CI."
+}
